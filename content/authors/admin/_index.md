@@ -35,4 +35,4 @@ user_groups:
   - Visitors
 highlight_name: false
 ---
-I am a MSc. student in Computer Science at Ontario Tech University, Oshawa, ON, Canada. Besides my courses, I am a teacher assistant at the faculty of business and IT at Ontario Tech.  Currently, I do research as a graduate research assistant in [](https://www.sain.ca/)[SAIN Lab.](https://www.sain.ca/) under the supervision of Professor [Amirali Salehi-Abari.](https://www.abari.ca/) I am currently working on online techniques of knowledge distillation within a cohort of deep neural networks.
+I am a MSc. student in Computer Science at Ontario Tech University, Oshawa, ON, Canada. Besides my courses, I am a teacher assistant at the faculty of business and IT at Ontario Tech.  Currently, I do research as a graduate research assistant in [](https://www.sain.ca/)[SAIN Lab.](https://www.sain.ca/) under the supervision of Professor [Amirali Salehi-Abari.](https://www.abari.ca/) I am currently working on online techniques of knowledge distillation in deep mutual learning.
