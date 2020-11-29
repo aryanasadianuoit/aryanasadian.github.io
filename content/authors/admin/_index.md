@@ -1,6 +1,7 @@
 ---
 title: Aryan Asadian
 role: Deep Learning researcher
+avatar_filename: profile.jpg
 bio: My research interests include distributed machine learning, knowledge
   transfer, deep learning on edge devices, and optimization.
 interests:
