@@ -20,9 +20,12 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/aryanasadianuoit
+  - link: https://www.linkedin.com/in/aryanasadian/
+    icon_pack: fas
+    icon: linkedin
 organizations:
-  - name: Stanford University
-    url: ""
+  - name: Ontario Tech University
+    url: https://ontariotechu.ca/
 education:
   courses:
     - course: MSc. in Computer Science
